@@ -1,7 +1,6 @@
-
-# -*- coding: utf-8 -*-
-# Sheet3 Builder – XML-only batch
-# Author: M365 Copilot
+# DO NOT COPYWRITE OR SELL THIS PRODUCT. 
+# Created 10:40am 
+# Author: Carlos Garcia
 
 import os
 import glob
@@ -11,7 +10,7 @@ from openpyxl.styles import PatternFill
 from openpyxl.formatting.rule import CellIsRule
 
 # ====== CONFIG ======
-FOLDER = r"C:\\Users\\cgarcia\\Downloads\\L000753630\\L000753630\\New folder"
+FOLDER = r"C:\\Users\\BigZ1\\OneDrive\\Desktop\\Test_XML"
 OUTPUT_XLSX = os.path.join(FOLDER, "Sheet3_Builder_XML_Output.xlsx")
 
 # Tests you want in Sheet3
@@ -22,7 +21,7 @@ TESTS_TO_INCLUDE = ["Max Power (dBm)", "Throughput (%)"]
 CHANNELS_KEEP = None  # leave None to keep all channels
 
 # ====== XML READER ======
-# We know rows are under <TestSteps>/<TestStep> based on your sample
+# We know rows are under <TestSteps>/<TestStep>
 XML_ROW_PATH = ".//TestStep"  # [1](https://imperoelectronics-my.sharepoint.com/personal/cgarcia_encorerepair_com/Documents/Microsoft%20Copilot%20Chat%20Files/P_354240388124327_D=11-21-2025_T=17-33-56.xml)
 
 def read_one_xml(path: str) -> pd.DataFrame:
