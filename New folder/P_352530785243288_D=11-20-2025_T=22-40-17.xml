@@ -1,0 +1,2162 @@
+<TestSteps>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.11</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.62</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-9.5</MeasValue>
+    <LowLimit>-375.0</LowLimit>
+    <HighLimit>375.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>98182496</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>100000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-73.0</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>623334/623334</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>20.36</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.94</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-19.9</MeasValue>
+    <LowLimit>-375.0</LowLimit>
+    <HighLimit>375.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>98167501</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>100000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-69.7</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>650000/650000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>21.63</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.76</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-18.2</MeasValue>
+    <LowLimit>-375.0</LowLimit>
+    <HighLimit>375.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>98182496</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>100000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-71.0</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n77</Band>
+    <UL_DL_Chans>676666/676666</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.09</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>3.53</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-6.5</MeasValue>
+    <LowLimit>-188.0</LowLimit>
+    <HighLimit>188.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-72.6</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>371000/387000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.72</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.25</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>2.9</MeasValue>
+    <LowLimit>-188.0</LowLimit>
+    <HighLimit>188.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-72.3</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>376000/392000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.08</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.39</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>0.4</MeasValue>
+    <LowLimit>-188.0</LowLimit>
+    <HighLimit>188.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-76.3</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n2</Band>
+    <UL_DL_Chans>381000/397000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.34</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.65</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-2.0</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9247500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-74.9</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>165800/174800</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.41</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.15</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-2.4</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-75.6</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>167300/176300</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.35</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.34</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>1.6</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9262500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-75.3</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n5</Band>
+    <UL_DL_Chans>168800/177800</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>21.44</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.96</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-6.0</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9262500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-75.7</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>140800/146800</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>20.91</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.40</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>1.3</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-75.4</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>141500/147500</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>20.93</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.64</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-4.5</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9307500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-75.4</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n12</Band>
+    <UL_DL_Chans>142200/148200</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.56</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.12</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-3.8</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9277500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-71.4</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>343000/423000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>26.26</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.65</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>3.1</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9292500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-71.7</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>349000/429000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>24.89</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.72</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-8.3</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>9292500</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-72.5</MeasValue>
+    <LowLimit>-100.0</LowLimit>
+    <HighLimit>-28.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>5G NSA</Technology>
+    <Band>n66</Band>
+    <UL_DL_Chans>355000/435000</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>21.74</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-45.37</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.00</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>3.3</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2143125</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23060/5060</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>21.20</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-48.76</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.26</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>2.3</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2148750</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23095/5095</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>20.67</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.16</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.26</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>2.0</MeasValue>
+    <LowLimit>-70.8</LowLimit>
+    <HighLimit>70.8</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B12</Band>
+    <UL_DL_Chans>23130/5130</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.53</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.62</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.89</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>0.7</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20450/2450</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.22</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.21</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.23</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>1.1</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20525/2525</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.63</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-48.16</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.54</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>1.7</MeasValue>
+    <LowLimit>-83.7</LowLimit>
+    <HighLimit>83.7</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2143125</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B5</Band>
+    <UL_DL_Chans>20600/2600</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.54</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-48.70</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>3.88</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>0.4</MeasValue>
+    <LowLimit>-188.1</LowLimit>
+    <HighLimit>188.1</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18650/650</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.61</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-48.24</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>3.09</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-1.7</MeasValue>
+    <LowLimit>-188.1</LowLimit>
+    <HighLimit>188.1</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2148750</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>18900/900</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.47</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-50.46</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>3.57</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>5.3</MeasValue>
+    <LowLimit>-188.1</LowLimit>
+    <HighLimit>188.1</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.60</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-49.65</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>4.01</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>3.3</MeasValue>
+    <LowLimit>-188.1</LowLimit>
+    <HighLimit>188.1</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2148750</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B2</Band>
+    <UL_DL_Chans>19150/1150</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.78</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-43.20</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.65</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>3.7</MeasValue>
+    <LowLimit>-79.3</LowLimit>
+    <HighLimit>79.3</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2148750</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B14</Band>
+    <UL_DL_Chans>23330/5330</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>23.49</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.91</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>1.73</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-2.4</MeasValue>
+    <LowLimit>-231.0</LowLimit>
+    <HighLimit>231.0</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B30</Band>
+    <UL_DL_Chans>27710/9820</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.93</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-51.86</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>4.78</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-0.7</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2154375</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132022/66486</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.54</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.98</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.79</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-1.3</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2148750</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132322/66786</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>Max Power (dBm)</Test>
+    <MeasValue>22.17</MeasValue>
+    <LowLimit>19.00</LowLimit>
+    <HighLimit>27.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>Carrier Leakage (dB)</Test>
+    <MeasValue>-47.47</MeasValue>
+    <LowLimit>-85.00</LowLimit>
+    <HighLimit>-10.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>EVM RMS (%)</Test>
+    <MeasValue>2.83</MeasValue>
+    <LowLimit>0.00</LowLimit>
+    <HighLimit>17.50</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>Freq Error (Hz)</Test>
+    <MeasValue>-0.6</MeasValue>
+    <LowLimit>-174.5</LowLimit>
+    <HighLimit>174.5</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>OBW (Hz)</Test>
+    <MeasValue>2143125</MeasValue>
+    <LowLimit>1000000</LowLimit>
+    <HighLimit>10000000</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+  <TestStep>
+    <Serial_No>352530785243288</Serial_No>
+    <Technology>LTE</Technology>
+    <Band>B66</Band>
+    <UL_DL_Chans>132622/67086</UL_DL_Chans>
+    <Test>Throughput (%)</Test>
+    <MeasValue>100.00</MeasValue>
+    <LowLimit>95.00</LowLimit>
+    <HighLimit>100.00</HighLimit>
+    <Date>20251120</Date>
+    <Time>224016</Time>
+  </TestStep>
+</TestSteps>
